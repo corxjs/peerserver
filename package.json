@@ -1,0 +1,23 @@
+{
+  "name": "peerserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "peer": "^0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corxjs/peerserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corxjs/peerserver/issues"
+  },
+  "homepage": "https://github.com/corxjs/peerserver#readme"
+}
